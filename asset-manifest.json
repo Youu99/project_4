@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/shoesshop/static/css/main.55a0e350.css",
-    "main.js": "/shoesshop/static/js/main.05f0f556.js",
-    "static/js/453.5e560239.chunk.js": "/shoesshop/static/js/453.5e560239.chunk.js",
-    "static/media/Shopbanner.png": "/shoesshop/static/media/Shopbanner.216eff7102ea87066657.png",
-    "static/media/sample-25.webp": "/shoesshop/static/media/sample-25.be9f1a08eacb577bd9b3.webp",
-    "static/media/sample-24.webp": "/shoesshop/static/media/sample-24.b98c108f865cb1fdd89a.webp",
-    "static/media/shop.webp": "/shoesshop/static/media/shop.46717316a1d12032574b.webp",
-    "static/media/shop3.webp": "/shoesshop/static/media/shop3.f3b0a7867e264fdf0c91.webp",
-    "static/media/shop2.webp": "/shoesshop/static/media/shop2.8cf3dea2d7a7dd7eadc7.webp",
-    "index.html": "/shoesshop/index.html",
-    "main.55a0e350.css.map": "/shoesshop/static/css/main.55a0e350.css.map",
-    "main.05f0f556.js.map": "/shoesshop/static/js/main.05f0f556.js.map",
-    "453.5e560239.chunk.js.map": "/shoesshop/static/js/453.5e560239.chunk.js.map"
+    "main.css": "/project_4/static/css/main.70f6afc5.css",
+    "main.js": "/project_4/static/js/main.78815d42.js",
+    "static/js/453.5e560239.chunk.js": "/project_4/static/js/453.5e560239.chunk.js",
+    "static/media/Shopbanner.png": "/project_4/static/media/Shopbanner.216eff7102ea87066657.png",
+    "static/media/sample-25.webp": "/project_4/static/media/sample-25.be9f1a08eacb577bd9b3.webp",
+    "static/media/sample-24.webp": "/project_4/static/media/sample-24.b98c108f865cb1fdd89a.webp",
+    "static/media/shop.webp": "/project_4/static/media/shop.46717316a1d12032574b.webp",
+    "static/media/shop3.webp": "/project_4/static/media/shop3.f3b0a7867e264fdf0c91.webp",
+    "static/media/shop2.webp": "/project_4/static/media/shop2.8cf3dea2d7a7dd7eadc7.webp",
+    "index.html": "/project_4/index.html",
+    "main.70f6afc5.css.map": "/project_4/static/css/main.70f6afc5.css.map",
+    "main.78815d42.js.map": "/project_4/static/js/main.78815d42.js.map",
+    "453.5e560239.chunk.js.map": "/project_4/static/js/453.5e560239.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.55a0e350.css",
-    "static/js/main.05f0f556.js"
+    "static/css/main.70f6afc5.css",
+    "static/js/main.78815d42.js"
   ]
 }
